@@ -1,0 +1,13 @@
+{
+    "name": "GDG Slingshot",
+    "version": "1",
+    "manifest_version": 2,
+    "description": "An app for managing GDG events.",
+    "app": {
+        "background": {
+            "scripts": ["js/background.js"]
+        }
+    },
+    "minimum_chrome_version": "23",
+    "offline_enabled": true
+}
